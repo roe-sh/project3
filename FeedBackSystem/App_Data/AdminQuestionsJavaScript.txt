@@ -1,0 +1,11 @@
+JavaScript
+I understand what is RegEX (Regular Expressions) and why we use it
+I understand what is a function, and I can create and call a function
+I understand what is a conditional statement is such as If statement and why we use it
+I understand the JavaScript fundamentals (variables, arrays, objects, strings)
+I understand what is JavaScript and what it is used for
+I understand what is JavaScript and what it is used for
+ understand what is JavaScript and what it is used for
+I understand what is a function, and I can create and call a function
+I understand what is a function, and I can create and call a function
+I understand what is a function, and I can create and call a function

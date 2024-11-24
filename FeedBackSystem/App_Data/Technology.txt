@@ -1,0 +1,3 @@
+HTML|HyperText Markup Language|Images/html.png
+CSS|Cascading Style Sheets|Images/css.png
+JavaScript|Programming Language|Images/javascript.png
